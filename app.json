@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "barclays-data-stellar",
+    "slug": "barclays-data-stellar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "barclays-data-stellar"
+}
